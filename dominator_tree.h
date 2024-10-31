@@ -2,6 +2,7 @@
 #define HARB_DOMINATOR_TREE_H
 
 #include <unistd.h>
+#include <cstdint>
 
 #include <vector>
 

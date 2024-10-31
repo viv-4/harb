@@ -8,6 +8,7 @@
 #include <sys/errno.h>
 #include <unistd.h>
 #include <locale.h>
+#include <cstdarg>
 
 #include <readline/readline.h>
 #include <readline/history.h>
